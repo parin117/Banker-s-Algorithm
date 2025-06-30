@@ -8,11 +8,12 @@ table{
 div{
     margin:2rem 2rem;
 }
-body{
-    background-color: #48f0ff;
+body {
+    background: linear-gradient(110deg,#ff9748, #7d6efe ,#43ecfb );
     padding: 2rem 2rem;
     text-align: center;
 }
+
 tr{
     border: 2px solid;
 }
