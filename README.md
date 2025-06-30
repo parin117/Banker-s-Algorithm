@@ -25,5 +25,5 @@ A simple, interactive web app to visualize and understand the Banker's Algorithm
 The Banker's Algorithm is a classic deadlock avoidance algorithm. It checks if resource allocation leaves the system in a safe state, preventing deadlocks before they happen.
 
 ## 🖼️ Screenshot
-> _Add a screenshot of your app here!_
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e9a72c9d-63ae-49f5-9496-f47f00dae60e" />
 
